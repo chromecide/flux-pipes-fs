@@ -1,0 +1,14 @@
+{
+  "name": "flux-pipes-fs",
+  "version": "1.0.0",
+  "description": "NodeJS fs wrapper for flux-pipes",
+  "author": "Justin Pradier <chromecide@chromecide.com>",
+  "keywords": [
+    "chromecide",
+    "flux-pipes",
+    "fs",
+    "files",
+    "folders"
+  ],
+  "dependencies": {}
+}
